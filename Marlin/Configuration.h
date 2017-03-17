@@ -64,9 +64,9 @@
 // Define this to set a custom name for your generic Mendel,
 // #define CUSTOM_MENDEL_NAME "This Mendel"
 #define CUSTOM_MENDEL_NAME  	"P802MA_8"
-#define	MACHINE_FW_VERSION		"P802MA_V1.8"
-#define	MARLIN_VERSION			"Base on MarlinV1.0"
-#define	COMPANY_NAME			"Murray's Printer"
+#define	MACHINE_FW_VERSION		"P802MA_V1.9"
+#define	MARLIN_VERSION			"Base on MarlinV1.0.2-2"
+#define	COMPANY_NAME			"Tronxy-P802MA"
 
 // Define this to set a unique identifier for this printer, (Used by some programs to differentiate between machines)
 // You can use an online service to generate a random UUID. (eg http://www.uuidgenerator.net/version4)
